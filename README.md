@@ -28,7 +28,7 @@ The project consists of the following main components:
 4. **Executing Scripts**: Optionally, use Groovy scripts for further data analysis. Scripts can be executed using the `runScript()` or `runScriptFromFile()` methods.
 5. **Analyzing Results**: Obtain computation results and data from scripts in text format thanks to `getResultsAsTsv()` method and GUI representation.
 
-## Examples
+## Launching Example
 
 An example of the model is in the program itself in the models directory.
 In the task, annotations labeled with @Bind mark fields in the model class, ensuring their accessibility across the program. 
@@ -57,6 +57,11 @@ EKS	811108.6
 IMP	784342.4
 ```
 
+The files need to be placed in Modeling/data and Modeling/scripts, which are located in the usеr.home directory
+
+### Step by step operation of the program.
+
+
 The user's window after launching the program:
 <img width="1012" alt="Screenshot 2024-05-02 at 23 20 38" src="https://github.com/alexkononon/UTP7_KA_S28228/assets/117831770/6fcbb519-2b6d-44e4-bd2c-53b9afc284c8">
 
@@ -74,5 +79,3 @@ It is also possible to run a script written in the application itself, and not a
 
 The result after running the script:
 <img width="1012" alt="Screenshot 2024-05-02 at 23 34 18" src="https://github.com/alexkononon/UTP7_KA_S28228/assets/117831770/1645b25d-eefa-4d5d-b5c4-1ce7cdd0a1dc">
-
-
