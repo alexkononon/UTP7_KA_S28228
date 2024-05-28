@@ -79,3 +79,7 @@ It is also possible to run a script written in the application itself, and not a
 
 The result after running the script:
 <img width="1012" alt="Screenshot 2024-05-02 at 23 34 18" src="https://github.com/alexkononon/UTP7_KA_S28228/assets/117831770/1645b25d-eefa-4d5d-b5c4-1ce7cdd0a1dc">
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
